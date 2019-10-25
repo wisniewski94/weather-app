@@ -35,8 +35,8 @@ You will also see any lint errors in the console.
 
 ##### Responsivity
 
-![Screenshot](/screenshots/3.png)
+![Screenshot](/screenshots/d4.png)
 
 ##### Statistics
 
-![Screenshot](/screenshots/d4.png)
+![Screenshot](/screenshots/s4.png)
