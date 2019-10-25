@@ -25,7 +25,18 @@ You will also see any lint errors in the console.
 
 ### Screenshots:
 
+##### Main page
+
 ![Screenshot](/screenshots/1.png)
+
+##### Form validation using Joi
+
 ![Screenshot](/screenshots/2.png)
+
+##### Responsivity
+
 ![Screenshot](/screenshots/3.png)
+
+##### Statistics
+
 ![Screenshot](/screenshots/4.png)
