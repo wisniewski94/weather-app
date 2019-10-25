@@ -39,4 +39,4 @@ You will also see any lint errors in the console.
 
 ##### Statistics
 
-![Screenshot](/screenshots/s4.png)
+![Screenshot](/screenshots/d4.png)
