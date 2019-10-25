@@ -24,8 +24,7 @@ class App extends Component {
         <div id="content">
           <Header />
           <Switch>
-            <Route path={"/home"} component={Weather} />
-            <Redirect from={"/"} exact to="/home" />
+            <Route path={"/"} component={Weather} />
             <Route component={NotFound} />
           </Switch>
         </div>
