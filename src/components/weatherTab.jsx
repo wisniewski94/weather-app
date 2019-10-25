@@ -44,7 +44,7 @@ const WeatherTab = ({ info, temp }) => {
               &#8451;
             </b>
             <br />
-            Average humidity temperature:
+            Average humidity:
             <b>
               {info.humidity !== undefined
                 ? " " + average(info.humidity).toFixed(0) + "%"
