@@ -24,8 +24,11 @@ class App extends Component {
         <div id="content">
           <Header />
           <Switch>
-            <Route path="/home" component={Weather} />
-            <Redirect from="/" exact to="/home" />
+            <Route
+              path={process.env.PUBLIC_URL + "/home"}
+              component={Weather}
+            />
+            <Redirect from={process.env.PUBLIC_URL + "/"} exact to="/home" />
             <Route component={NotFound} />
           </Switch>
         </div>
