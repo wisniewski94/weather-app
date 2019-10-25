@@ -1,0 +1,19 @@
+@import '_globals'
+
+#logo
+    $fallback: Georgia, serif
+    font-family: $fallback
+    font-size: 30px
+    font-weight: 900
+    color: red
+    height: 100px
+    .wf-active &
+        color: #383838
+        font-family: "Playfair Display"
+        -webkit-transition: color $hover-duration
+        -moz-transition: color $hover-duration
+        -ms-transition: color $hover-duration
+        -o-transition: color $hover-duration
+        transition: color $hover-duration
+        &:hover
+            color: #2e84ff
